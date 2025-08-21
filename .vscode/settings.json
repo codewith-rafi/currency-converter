@@ -1,0 +1,6 @@
+{
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": "Dart-Code.dart-code",
+    "dart.previewFlutterUiGuides": true,
+    "dart.previewFlutterUiGuidesCustomTracking": true
+}
